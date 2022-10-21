@@ -6,6 +6,3 @@
   <li><a href="mailto:m.bluth@example.com">Email</a></li>
   <li><a href="tel:+123456789">Phone</a></li>
 </ul>
-li {
-  margin-bottom: .5rem;
-}
