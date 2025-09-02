@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sabbir Hossain
+title: Sabbir Hossain | Personal Portfolio
 ---
 
 # Hi there 👋, I'm Sabbir Hossain
